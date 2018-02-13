@@ -1,5 +1,5 @@
 module.exports = [{
-        name: '资产概览',
+        name: '资产概览1',
         id: '1',
         icon: 'el-icon-menu',
         path:'/',
